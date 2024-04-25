@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+	background-image: url('Image/bg5.jpg');
+	
+	
+}
+
+h1 {
+	color: blue;
+	align-content: center;
+}
+
+p {
+	color: red;
+	align-content: center;
+	size: "100", "200"
+}
+font {
+	align-content: center;
+}
